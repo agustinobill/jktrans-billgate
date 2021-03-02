@@ -1,0 +1,37 @@
+.layout{
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	margin-bottom: 50px;
+}
+.lay_up{
+	width: 50%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.layout input[type=text], input[type=number]{
+	margin-bottom: 20px;
+}
+.layout input[type=text], input[type=number]{
+	margin-bottom: 5px;
+}
+.link{
+	text-decoration: none;
+	color: white;
+}
+.link:hover{
+	color: white;
+}
+.table{
+	width: 90%;
+	margin-top: 10px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+h3{
+	padding: 30px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
